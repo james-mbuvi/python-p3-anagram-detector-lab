@@ -1,3 +1,4 @@
+# from lib.testing.anagram import Anagram
 from anagram import Anagram
 
 class TestAnagram:
